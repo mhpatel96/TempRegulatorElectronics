@@ -153,7 +153,7 @@
 			)
 			(pin input inverted
 				(at 11.43 -15.24 180)
-				(length 3.81)
+				(length 2.54)
 				(name "CS"
 					(effects
 						(font
@@ -171,7 +171,7 @@
 			)
 			(pin input inverted
 				(at 11.43 -12.7 180)
-				(length 3.81)
+				(length 2.54)
 				(name "RST"
 					(effects
 						(font
